@@ -1,0 +1,4 @@
+baseURL = 'https://blog.breath-alchemist.com/'
+languageCode = 'en-us'
+title = 'Breath Alchemist'
+theme = 'mini'
