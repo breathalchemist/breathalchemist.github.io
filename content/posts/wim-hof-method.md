@@ -107,9 +107,9 @@ It is also interesting to mention a recent study that compared various breathing
 * Breathing manipulation techniques showed a greater positive effect compared to the group that only performed mindfulness meditation.
 * The [physiological sigh](https://youtu.be/kSZKIupBUuc?si=3fDoEUlbYO9Vzbky) technique yielded better results than the Wim Hof method. However, it should be noted that the duration of the sessions was relatively short (about 5 minutes), while a complete session of the method would last about 15 minutes. It is possible that the Wim Hof breathing was not administered for a sufficient time to fully detect its benefits. However, it remains evident that if you have little time available, the physiological sigh may have better results. For calming sessions, I also prefer the physiological sigh because it is less demanding at the respiratory level.
 
-I also attach the various researches regarding cold exposure, for those interested:
+I also attached the various researches regarding cold exposure, for those interested:
 
-[https://consensus.app/search/effects-of-cold-exposure-on-stress-and-inflammatio/v-h2hRjOTRWF1pAIVIF-uw/?source=post_page-----c1a362224b90---------------------------------------](Consensus - Effects of Cold Exposure and Inflammation)
+[Consensus - Effects of Cold Exposure and Inflammation](https://consensus.app/search/effects-of-cold-exposure-on-stress-and-inflammatio/v-h2hRjOTRWF1pAIVIF-uw/?source=post_page-----c1a362224b90---------------------------------------)
 
 Furthermore, the analysis of the sources did not reveal a significant improvement in athletic performance following the breathing exercise, contrary to what is professed by Wim himself or those acting on his behalf. Personally, this fact does not particularly interest me, as my goal (and I think yours too?) is to improve health, relieve stress, and reduce the general state of inflammation.
 
