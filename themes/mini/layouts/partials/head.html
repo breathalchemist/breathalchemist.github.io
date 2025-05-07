@@ -24,9 +24,7 @@
 
 <link rel="shortcut icon" href="{{ "/images/favicon.ico" | relURL }}" type="image/x-icon" />
 
-{{ if .Site.Params.enableGoogleAnalytics }} 
-  {{ template "_internal/google_analytics.html" . }}
-{{ end }}
+{{ template "_internal/google_analytics.html" . }}
 
 {{ if or .Params.math .Site.Params.math }}
   {{ partial "math.html" . }}
