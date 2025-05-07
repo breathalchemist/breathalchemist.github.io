@@ -15,7 +15,7 @@ permalinks:
 
 paginate: 3
 
-googleAnalytics: your-google-analytics-id
+googleAnalytics: G-9KDPBZY7T1
 disqusShortname: your-disqus-shortname
 
 # Hugo Configure Markup
@@ -45,7 +45,7 @@ markup:
 # Site parameters
 params:
   # Site Author
-  author: Author
+  author: Breath Alchemist
   # Author biography
   bio: Software Engineer
   # Site Description, used in HTML meat
