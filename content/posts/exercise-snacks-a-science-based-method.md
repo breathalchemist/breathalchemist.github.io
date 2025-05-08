@@ -125,7 +125,7 @@ You probably heard that doing mobility and stretching work is pretty useful to m
 
 * [Phraktured - Starting Stretching](https://phrakture.github.io/starting-stretching.html)
 * [Phraktured - Molding Mobility](https://phrakture.github.io/molding-mobility.html)
-* [Ido Portal's Squat Routing](https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fantranik.org%2F&source_ve_path=Mjg2NjQsMTY0NTAz&v=lbozu0DPcYI&feature=youtu.be)
+* [Ido Portal's Squat Routine](https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fantranik.org%2F&source_ve_path=Mjg2NjQsMTY0NTAz&v=lbozu0DPcYI&feature=youtu.be)
 
 These simple exercises are supposed to be performed with low effort.
 
