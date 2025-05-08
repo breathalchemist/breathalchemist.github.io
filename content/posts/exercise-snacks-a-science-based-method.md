@@ -4,7 +4,7 @@ draft = false
 title = 'Exercise Snacks: A Science Based Method to Combat the Modern Sedentary Lifestyle'
 +++
 
-# Exercise Snacks
+![alt text](/exercise_snack_cover.png)
 
 "Sitting is the new smoking," or so they say.
 
